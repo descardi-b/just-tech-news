@@ -24,8 +24,8 @@ class Post extends Model {
                         'vote_count'
                     ]
                 ]
-            })
-        })
+            });
+        });
     }
 }
 
